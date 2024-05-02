@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DAE9A081-6560-4B35-80C3-A0A835E2EF9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47623E27-2922-490C-90B7-5E824FC680FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Techie Butler/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "didRecieveDataForRequestedPage(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47623E27-2922-490C-90B7-5E824FC680FE - 4f000e47896f4de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Techie_Butler.ViewController.didRecieveDataForRequestedPage(data: Swift.Array&lt;Techie_Butler.TechieModel&gt;) -&gt; ()"
+                  moduleName = "Techie Butler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akhiljain/Desktop/Code/Growth/Techie%20Butler/Techie%20Butler/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "47623E27-2922-490C-90B7-5E824FC680FE - 4f000e47896f4de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Techie_Butler.ViewController.didRecieveDataForRequestedPage(data: Swift.Array&lt;Techie_Butler.TechieModel&gt;) -&gt; ()"
+                  moduleName = "Techie Butler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akhiljain/Desktop/Code/Growth/Techie%20Butler/Techie%20Butler/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A32D8E76-8A7A-42CB-ACB4-FA6FDC6375EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Techie Butler/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "didRecieveDataForRequestedPage(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A32D8E76-8A7A-42CB-ACB4-FA6FDC6375EC - 4f000e47896f41c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Techie_Butler.ViewController.didRecieveDataForRequestedPage(data: Swift.Array&lt;Techie_Butler.TechieModel&gt;) -&gt; ()"
+                  moduleName = "Techie Butler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akhiljain/Desktop/Code/Growth/Techie%20Butler/Techie%20Butler/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "A32D8E76-8A7A-42CB-ACB4-FA6FDC6375EC - 4f000e47896f41c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Techie_Butler.ViewController.didRecieveDataForRequestedPage(data: Swift.Array&lt;Techie_Butler.TechieModel&gt;) -&gt; ()"
+                  moduleName = "Techie Butler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akhiljain/Desktop/Code/Growth/Techie%20Butler/Techie%20Butler/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8B18D5A-8B5B-4881-8E39-EFA94B6A23B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Techie Butler/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "scrollViewDidEndDecelerating(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61F4B781-33D7-450F-86CC-A8102C5CBFA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Techie Butler/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "scrollViewDidEndDecelerating(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
